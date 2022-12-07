@@ -27,7 +27,7 @@ Tableau story page 2 contains 2 visualizations. Both plots show a break down of 
 
 ### Tableau Story page 3
 
-![hourly breakdown of trips by gender](https://github.com/y2k600f4/kickstarter-analysis/blob/main/hourly breakdown of trips by gender)
+![hourly breakdown of trips by gender](https://github.com/y2k600f4/bikesharing/blob/main/hourly%20breakdown%20of%20trips%20by%20gender.PNG)
 
 Tableau story page 3 depicts an hourly breakdown of trips by gender by using a single heat map visualization. The darker red boxes show more trips, while the lighter orange boxes show less. This graph shows that 6-8am and 4-7pm  (M-F) are the most popular times to use a CitiBike for both male and females.
 
