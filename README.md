@@ -33,7 +33,7 @@ Tableau story page 3 depicts an hourly breakdown of trips by gender by using a s
 
 ### Tableau Story page 4
 
-![weekly breakdown of trips by gender and user type](https://github.com/y2k600f4/kickstarter-analysis/blob/main/weekly breakdown of trips by gender and user type)
+![weekly breakdown of trips by gender and user type](https://github.com/y2k600f4/bikesharing/blob/main/weekly%20breakdown%20of%20trips%20by%20gender%20and%20user%20type.PNG)
 
 Tableau story page 4 contains 2 visualizations, both which are heat maps. The heat map to the left is similiar to the previous heat map shown above (Tableau Story page 3), however it combines all genders. Despite gender the most popular trip times are Thursdays from 5-6PM as seen from the darkest (red) areas of the heat map. The graph to the right (blue) shows trips by gender by weekday by user type. 
 
@@ -60,4 +60,4 @@ In summary the results strongly show  that bikesharing is most popular during ty
 
 
 
-A
+
