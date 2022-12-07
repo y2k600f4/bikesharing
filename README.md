@@ -21,7 +21,7 @@ Tableau story page 1 contains 3 visualizations which contain a general overview 
 
 ### Tableau Story page 2
 
-![bike checkout times by trip and gender](https://github.com/y2k600f4/kickstarter-analysis/blob/main/bike checkout times by trip and gender)
+![bike checkout times by trip and gender](https://github.com/y2k600f4/bikesharing/blob/main/bike%20checkout%20times%20by%20trip%20and%20gender.PNG)
 
 Tableau story page 2 contains 2 visualizations. Both plots show a break down of the number of bikes checked out by trip duration. The top plot shows the length of time that bikes are checked out for all users. In the second visualization the graph shows the length of time that bikes are checked out for each gender. Both graphs show that shorter trips between ~3-30 minutes are the most popular, with the second graph showing the gender breakdown which again depicts the gender "Male" with the highest bikes checked out.
 
