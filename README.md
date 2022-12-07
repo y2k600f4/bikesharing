@@ -2,7 +2,7 @@
 
 ## Link to Tableau Workbook (public)
 
-[Link] (https://public.tableau.com/views/Citibike_Challenge_TripAnalysis/CitiRideshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link](https://public.tableau.com/views/Citibike_Challenge_TripAnalysis/CitiRideshareStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Purpose
 
@@ -15,7 +15,7 @@ A summary of these results can also be seen from the above Link to the Public Ta
 
 ### Tableau Story page 1
 
-![general overview](https://github.com/y2k600f4/kickstarter-analysis/blob/main/general overview.png)
+![general overview](https://github.com/y2k600f4/bikesharing/blob/main/general%20overview.PNG)
 
 Tableau story page 1 contains 3 visualizations which contain a general overview of the data set. The total number of rides (trips) is shown to be approxiamately 2.3M. In addition the other two visulaizations (pie charts) show a customer breakdown and a gender breakdown. We can determine from these two pie chartsthat user type "subcriber" and Gender "Male" are the primary customers.
 
